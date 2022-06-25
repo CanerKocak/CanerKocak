@@ -1,5 +1,5 @@
 - 👋 Hello, I am @CanerKocak
 - 👀 I am interested in automating things
 - 🌱 Currently learning PYTHON / THREE.JS,VUE / SQL
-- 📫 Email: caner1kocak1@gmail.com / floppa@floppa.network
-- 📫 Discord: Caner#8151
+- 📫 Email: caner1kocak1@gmail.com / floppa@floppa.network / canerotellie@gmail.com
+- 📫 Discord: caner#6969
